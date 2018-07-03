@@ -1,1 +1,1 @@
-This python class have four students. Their names are; Seema, Priyanka, Ajay and Gaurav.They arelearning fast
+This python class have four students. Their names are; Seema, Priyanka, Ajay and Gaurav.
